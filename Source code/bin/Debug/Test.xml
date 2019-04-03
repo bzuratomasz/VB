@@ -1,0 +1,1243 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Test
+</name>
+</assembly>
+<members>
+<member name="T:Test.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:Test.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:Test.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="T:Test.My.Resources.resGlobal">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.Msg_IsAlreadyOpened">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu {0} is already opened.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgAreYouSureSelectedEntryShouldBeDeleted">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Are you sure the entry should be deleted?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgBecauseInMeantimeNewVersionOfProgramWasRecordedProgramIsTerminatedAutomaticallyNowPleaseRestart">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Because in the meantime a new version of the program was recorded, the program is terminated automatically now. Please restart the program..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgBecauseNewVersionOfProgramIsRecordedProgramIsTerminatedAutomaticallyNowPleaseRestartProgram">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Because a new version of the program is recorded, the program is terminated automatically now. Please restart the program..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgCantWriteFile_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Cant write file &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgClsDataReaderObject_NotFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu clsDataReader: object &apos;{0}&apos; not found.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDatabaseFile_IsMissing">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Database file &apos;{0}&apos; is missing..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDataSaved">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Data saved..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDataType_IsNotSupported">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Data type &apos;{0}&apos; is not supported..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDocument_CouldNotBeFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The document &apos;{0}&apos; could not be found..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDocumentCouldNotBeLoaded">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Document could not be loaded!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDoYouWantToExitApplication">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Do you want to exit the application?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgDoYouWantToSaveChangesBeforeClosing">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Do you want to save the changes before closing?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgEndDateIsBeforeStartDate">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The end date is before the start date..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorAccessingSCDSCDGID_IsNotUnique">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error accessing SCD: SCD-GID &apos;{0}&apos; is not unique..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorInMethod_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error in the method &apos;{0}&apos; ({1}).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorInStatementExecution_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error in the statement execution {0}:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorOccured_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu An error occured! ({0}).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorOpeningDataReaderFor_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error opening DataReader for {0}:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileAccessingLastWriteTime4File_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while accessing last write time for file &apos;{0}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileCheckingAvailabilityOfDirectory4_WithSearchPattern_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while checking the availability of directory for &apos;{0}&apos; with search pattern &apos;{1}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileCopyingFile_DestinationDirectory_NotAvailableOrUserIsNotAuthorized">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while copying file &apos;{0}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileCopyingFile_FileIsAlreadyAvailableOverwritingNotIntended">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while copying file &apos;{0}&apos;: file is already available, overwriting not intended..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileCopyingTemplateFile_To_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while copying the template file &apos;{0}&apos; to &apos;{1}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileCreatingDirectory_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while creating the directory &apos;{0}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileDeletingDirectory_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while deleting directory &apos;{0}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileDeletingFile_PleaseDeleteFileManually">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while deleting file &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileExecutingScalarInstruction_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while executing the scalar instruction {0}:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileMovingFile_To_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while moving file &apos;{0}&apos; to &apos;{1}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileOpeningDatabaseConnectionString_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while opening database. Connection String: {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileOpeningDirectory_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while opening directory &apos;{0}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileOpeningDocument_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while opening document &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileRelockingRecordPleaseReportThisErrorToYourAdministrator">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while relocking the record. Please report this error to your administrator..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgErrorWhileSearchingFile_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while searching file &apos;{0}&apos;:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgFailedToCreateDatabaseConnection">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Failed to create the database connection..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgFailedToOpenFile_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Failed to open the file &apos;{0}&apos; (&quot; {1} &quot;)..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgFile_CouldNotBeCopiedTo_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The file &apos;{0}&apos; could not be copied to &apos;{1}&apos;!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgFile_DoesNotExist">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The file &apos;{0}&apos; does not exist..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgFunctionIsNotYetImplemented">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Function is not yet implemented..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgGatheringInformation">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Gathering information....
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgIniFile_IsMissing">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Ini file &apos;{0}&apos; is missing..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgInvalidConnectionString_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Invalid Connection String &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgInvalidDatabaseFileName_InIniFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Invalid database file name &apos;{0}&apos; in .ini file..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgKey_CouldNotBeFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The key &apos;{0}&apos; could not be found..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgMovingFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Moving file ....
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgNotFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Not found..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgNumberOfConnections">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Number of connections:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgOpenFolder_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Open folder &apos;{0}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPath_CouldNotBeCreated">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Path &apos;{0}&apos; could not be created..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseEnterMaterialNo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter material number..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseEnterName">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter a name!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseEnterValidDate">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter a valid date..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSelectAtLeastOneCell">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select at least one cell..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSelectEntry">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select an entry..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSelectImageFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select an image file..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSelectOnlyOneRow">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select only one row..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSelectStatus">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select a status!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSpecifyAnExistingDirectory">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please specify an existing directory..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSpecifyExistingDestinationDirectory">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please specify an existing destination directory..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPleaseSpecifyExistingSourceFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please specify an existing source file..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgPreparingFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Preparing file....
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgProgramCannotBeStartedBecauseOfMissingPermissions4RunningDotNetProgramsFromSecurityZoneLocalIntranet">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The program cannot be started because of missing permissions for running .NET programs from the security zone &apos;Local intranet&apos;. Please contact your system administrator..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgProgramFileYouHaveStartedIsNotUpToDateCurrentVersionNumberIs_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The program file you have started is not up-to-date. The current version number is &apos;{0}.{1}&apos;. Please ask your administrator for a new version..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgRecordCouldNotBeLockedAtMomentItIsInProcessBy_Computer_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The record could not be locked. At the moment it is in process by &apos;{0}&apos; (computer &apos;{1}&apos;)..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgSourceDirectoryDoesNotExist_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Source directory does not exist: {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgTargetDirectoryDoesNotExist_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Target directory does not exist: {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgTemplateFile_CouldNotBeFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The template file &apos;{0}&apos; could not be found..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.MsgUnexpectedlyHighNumberOfDatabaseConnections_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Unexpectedly high number of database connections: {0}..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextActionCompleted">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Action completed..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextActive">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu active.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextAdministrator">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Administrator.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextAll">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu (all).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextAllFiles">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu All files.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextBeginsWith">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu  begins with:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextCancel">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Cancel.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextCausedByFollowingInnerException">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Caused by the following inner exception:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextClose">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Close.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextClosed">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu closed.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextCSVFiles">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu .csv files.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextDescription">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Description.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextDone">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Done.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextEdit">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Edit.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextElementsLeft">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Elements left:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextError">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextFilter">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Filter:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu (found).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextFrom">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu From:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextGuest">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Guest.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextImageFiles">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Image files.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextInactive">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu inactive.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextInfo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Info.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextInformation">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Information.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextInProcess">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu In process.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextInternalError">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Internal error.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextLocked">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu locked.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextName">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Name:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextNo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu No.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextNone">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu None.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextNotFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu (not found).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextOnly">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu only.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextOther">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Other.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextPDFFiles">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu .pdf files.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextPleaseCheck">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu (please check).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextPleaseSelect">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu (please select).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextQuantity">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Quantity.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextQuestion">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Question.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextReleased">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Released.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextReleaseDate">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Release date.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextReleasedBy">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Released by.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextRetry">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Retry.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextState">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu State:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextSuccessfullyCompleted">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu successfully completed.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextSum">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Sum:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextTerminatedAbnormally">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu terminated abnormally.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextTo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu To:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextUser">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextUser2">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextValue">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Value.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextView">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu View.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextWithout">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu (without).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resGlobal.TextYes">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Yes.
+</summary>
+</member>
+<member name="T:Test.My.Resources.resMain">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgAreYouSureSelectedMaterialShouldBeRemovedFromList">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Are you sure the selected material should be removed from the list?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgAreYouSureYouWant2DeleteSelectedPartner">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Are you sure you want to delete the selected partner?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgAreYouSureYouWant2DeleteSelectedUser">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Are you sure you want to delete the selected user?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgAreYouSureYouWantToRemoveAllMaterialsFromThisFolder">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Are you sure you want to remove all materials from this folder?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgAreYouSureYouWantToRemoveSelectedMaterialsFromThisFolder">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Are you sure you want to remove the selected materials from this folder?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCannotFindDataset">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Cannot find dataset..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCheckErrorLogForDetails">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Check error log for details..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgClsDatareaderFieldNotFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu clsDataReader: Field {0} not found..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCouldNotDetermineTypeOfSAPExportFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Could not determine the type of SAP export file!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCouldNotFindMToolProject4OrderNo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Could not find MTool project for order no.: &apos;{0}&apos;!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCouldNotFindRequiredDataInTheClipboard">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Could not find required data in the clipboard!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCouldNotMapLineToSQLRecord">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Could not map &apos;{0}&apos; line {1} to SQL record..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgCouldNotOpenMToolDB">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Could not open MTool DB!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgEMailAlreadyExistsInTheDatabase">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The e-mail &apos;{0}&apos; already exists in the database!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgEndDateIsBeforeStartDate">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The end date is before the start date..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorInPrintTableInsertScript">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error in PrintTableInsertScript: .
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhenStartingExcel_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error when starting Excel. (&quot; {0} &quot;)..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhileAccessingSCDGivenGIDIsNotUnique">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while accessing SCD: given GID &apos;{0}&apos; is not unique..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhileExecutingSQLCommand">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while executing SQL command:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhileExecutingSQLQuery">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while executing SQL query:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhileOpeningLogFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while opening Logfile..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhileOpeningRecordSet">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while opening recordset:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgErrorWhileReopeningDatabase">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error while (re-)opening database:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgExecutionOfSQLCommandFailed">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The execution of an SQL command failed..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgExecutionOfSQLQueryFailed">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The execution of an SQL query failed..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgFileAlreadyExists">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu File &apos;{0}&apos; already exists!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgFirstCheckMaterial">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu First check the material!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgFoundAndRemovedDuplicateEntries">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found and removed duplicate entries: ({0}).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgFoundUnknownMaterialNumbers">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found unknown material numbers: {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgImportCompleted">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Import completed..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgImportFailed">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Import failed..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgImportOfFailed">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Import of &apos;{0}&apos; failed: .
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgInvalidDataCouldNotFindHeaders">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Invalid data. Could not find headers!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgLineCausedException">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu &apos;{0}&apos; line {1} caused an exception:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgLoginIsAlreadyAssignedToAnotherUser">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Login &apos;{0}&apos; is already assigned to another user!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgMRPControllerIsAlreadyAssignedToAnotherUser">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu MRP Controller &apos;{0}&apos; is already assigned to another user!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgNumberOfConnectionsIncreased">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Number of connections increased: {0}..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgOutOfMemorySplittingTransactionOfSQLStatementsInto2Parts">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Out of memeory! Splitting transaction of {0} SQL statements into two parts..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPartnerIsAlreadyAssignedToAnotherUser">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Partner &apos;{0}&apos; is already assigned to another user!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseClick2ShowSelectionForm">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please click &apos;...&apos; to show selection form..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseEnterEMail">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter e-mail!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseEnterLogin">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter a login!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseEnterMRPController">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter an MRP controller!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseEnterPhoneNumber">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter a phone number!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseEnterWireTypeName">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please enter wire type name..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseReadProjectFirst">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please read a project first!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseSelectPartner">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select a partner!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseSelectProduct">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select product..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseSelectUserGroup">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select a user group!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseSelectUserType">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select a user type!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseSelectWireColor">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select wire color..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseSelectWireCrossSection">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please select wire cross section..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPleaseWaitSomeSecondsMinutesToRepeatExecution">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Please wait some seconds/minutes to repeat the execution..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgProjectAlreadyExistsInDatabaseDoYouWantToOverwrite">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The project already exists in the database. Do you want to overwrite?.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgProvidedMaterialIsNotRelated">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Provided material is not related!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgPurchaseOrderWithIDNotFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu PurchaseOrder with ID = {0} not found!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgReconnectingToDatabaseFailed">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The (re-)connecting to the database failed..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSelectedEmployeeAlreadyExists">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Selected employee already exists..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSelectedEmployeeDoesntHaveGID">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Selected employee doesn&apos;t have a GID..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSelectedMaterialIsAlreadyRelatedWithAnotherGroupOfMaterials">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The selected material is already related with another group of materials!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSelectedMaterialIsCurrentlyViewedInCockpitItem">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The selected material is currently viewed in the Cockpit Item!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSelectedPartnerCannotBeDeletedBecauseIsStillAssigned2User">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Selected partner cannot be deleted because is still assigned to a user!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSpecifiedWireAlreadyExists">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu The specified wire already exists..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgSynchronizationComplete">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Synchronization complete..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgUnknownDataType">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Unknown data type: &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgUserHasSomeFavoritesFoldersAndCannotBeDeleted">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User has some Favorites folders and cannot be deleted!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgUserIsInactive">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User &apos;{0}&apos; is inactive!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgUserLoginCouldNotBeFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User login &apos;{0}&apos; could not be found!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.MsgUserWithNoCouldNotBeFound">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User with no. {0} could not be found!.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextArrivalInWuxi">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Arrival in Wuxi.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextChoosePartner">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Choose Partner.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextColumnHasUnrecognizableData">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Column {0} has unrecognizable data: &apos;{1}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextColumnIsOutOfRangeCannotAssignToHeader">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Column {0} is out of range, cannot assign to header..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextCommonUser">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Common User.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextConnectionString">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Connection String: {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextCouldNotFindFile">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Could not find file: &apos;{0}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextDateTime_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Date/Time: {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextEmptyMaterialNo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Empty material no..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextEmptyPONoOrPOItem">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Empty PONo or POItem..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextEmptySupplierNo">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Empty supplier no..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextErrLog_Txt">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu ErrLog_{0}.txt.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextErrorNoText">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Error No. {0}: {1}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextFoundAndRemovedDuplicateInfoSetRecords">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found and removed duplicate info set records: ({0}).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextFoundAndRemovedDuplicateMaterialNumbers">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found and removed duplicate material numbers: .
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextFoundAndRemovedDuplicatePOConfirmations">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found and removed duplicate PO Confirmations: ({0}).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextFoundAndRemovedDuplicateSupplierNumbers">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found and removed duplicate supplier numbers: .
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextFoundAndRemovedEntriesWithDuplicateMaterialNumbers">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Found and removed entries with duplicate material numbers:.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextImportInProgress">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Import in progress....
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextImportSAPData">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Import SAP data.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextInvalidEndDate">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Invalid end date: &apos;{0}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextInvalidInfoRecNoOrToFewColumnsToGetRequiredData">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Invalid Info rec. no. or to few columns to get required data..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextInvalidStartDate">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Invalid start date: &apos;{0}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextLeadTime">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Lead time.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextLoadingMLFBMap">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Loading MLFB map.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextManagePartners">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Manage Partners.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextMappingDataFromToSQLRecords">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Mapping data from &apos;{0}&apos; to SQL records.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextMappingDataToSQLRecords">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Mapping data to SQL records.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextNextImportIn_">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Next import in {0}.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextOnlyValidInfoSets">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu only valid info sets.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextOnlyValidInfoSetsWithOpenPOs">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu only valid info sets with open POs.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextParsing">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Parsing: &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextPartnerEdit">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Partner - Edit.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextPartnerNew">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Partner - New.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextPartnerView">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Partner - View.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextReadingDataFrom">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Reading data from: &apos;{0}&apos;..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextReadingDataLines">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Reading data ({0} lines).
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextSAPImport_Txt">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu SAPImport_{0}.txt.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextSizeBKBMB">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Size: {0}B | {1}KB | {2}MB.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextSkippingColumnFromLineCause">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Skipping column from line {0}. Cause: .
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextSkippingLineCause">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Skipping line {0}. Cause: .
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextSupervisor">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Supervisor.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextToFewColumnsToGetRequiredData">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu To few columns to get required data..
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextUnknownPaymentTerm">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu Unknown PaymentTerm: &apos;{0}&apos;.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextUserEdit">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User - Edit.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextUserNew">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User - New.
+</summary>
+</member>
+<member name="P:Test.My.Resources.resMain.TextUserView">
+<summary>
+Wyszukuje zlokalizowany ciąg podobny do ciągu User - View.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,6 @@
+C:\Users\Celebrus\Downloads\Task\Source code\Lib\Test.Common\bin\Debug\Test.Common.dll
+C:\Users\Celebrus\Downloads\Task\Source code\Lib\Test.Common\bin\Debug\Test.Common.pdb
+C:\Users\Celebrus\Downloads\Task\Source code\Lib\Test.Common\obj\Debug\Test.Common.csprojAssemblyReference.cache
+C:\Users\Celebrus\Downloads\Task\Source code\Lib\Test.Common\obj\Debug\Test.Common.csproj.CoreCompileInputs.cache
+C:\Users\Celebrus\Downloads\Task\Source code\Lib\Test.Common\obj\Debug\Test.Common.dll
+C:\Users\Celebrus\Downloads\Task\Source code\Lib\Test.Common\obj\Debug\Test.Common.pdb

@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MsgAreYouSureSelectedMaterialShouldBeRemovedFromList" xml:space="preserve">
+    <value>Are you sure the selected material should be removed from the list?</value>
+  </data>
+  <data name="MsgAreYouSureYouWant2DeleteSelectedPartner" xml:space="preserve">
+    <value>Are you sure you want to delete the selected partner?</value>
+  </data>
+  <data name="MsgAreYouSureYouWant2DeleteSelectedUser" xml:space="preserve">
+    <value>Are you sure you want to delete the selected user?</value>
+  </data>
+  <data name="MsgAreYouSureYouWantToRemoveAllMaterialsFromThisFolder" xml:space="preserve">
+    <value>Are you sure you want to remove all materials from this folder?</value>
+  </data>
+  <data name="MsgAreYouSureYouWantToRemoveSelectedMaterialsFromThisFolder" xml:space="preserve">
+    <value>Are you sure you want to remove the selected materials from this folder?</value>
+  </data>
+  <data name="MsgCannotFindDataset" xml:space="preserve">
+    <value>Cannot find dataset.</value>
+  </data>
+  <data name="MsgCheckErrorLogForDetails" xml:space="preserve">
+    <value>Check error log for details.</value>
+  </data>
+  <data name="MsgClsDatareaderFieldNotFound" xml:space="preserve">
+    <value>clsDataReader: Field {0} not found.</value>
+  </data>
+  <data name="MsgCouldNotDetermineTypeOfSAPExportFile" xml:space="preserve">
+    <value>Could not determine the type of SAP export file!</value>
+  </data>
+  <data name="MsgCouldNotFindMToolProject4OrderNo" xml:space="preserve">
+    <value>Could not find MTool project for order no.: '{0}'!</value>
+  </data>
+  <data name="MsgCouldNotFindRequiredDataInTheClipboard" xml:space="preserve">
+    <value>Could not find required data in the clipboard!</value>
+  </data>
+  <data name="MsgCouldNotMapLineToSQLRecord" xml:space="preserve">
+    <value>Could not map '{0}' line {1} to SQL record.</value>
+  </data>
+  <data name="MsgCouldNotOpenMToolDB" xml:space="preserve">
+    <value>Could not open MTool DB!</value>
+  </data>
+  <data name="MsgEMailAlreadyExistsInTheDatabase" xml:space="preserve">
+    <value>The e-mail '{0}' already exists in the database!</value>
+  </data>
+  <data name="MsgEndDateIsBeforeStartDate" xml:space="preserve">
+    <value>The end date is before the start date.</value>
+  </data>
+  <data name="MsgErrorInPrintTableInsertScript" xml:space="preserve">
+    <value>Error in PrintTableInsertScript: </value>
+  </data>
+  <data name="MsgErrorWhenStartingExcel_" xml:space="preserve">
+    <value>Error when starting Excel. (" {0} ").</value>
+  </data>
+  <data name="MsgErrorWhileAccessingSCDGivenGIDIsNotUnique" xml:space="preserve">
+    <value>Error while accessing SCD: given GID '{0}' is not unique.</value>
+  </data>
+  <data name="MsgErrorWhileExecutingSQLCommand" xml:space="preserve">
+    <value>Error while executing SQL command:</value>
+  </data>
+  <data name="MsgErrorWhileExecutingSQLQuery" xml:space="preserve">
+    <value>Error while executing SQL query:</value>
+  </data>
+  <data name="MsgErrorWhileOpeningLogFile" xml:space="preserve">
+    <value>Error while opening Logfile.</value>
+  </data>
+  <data name="MsgErrorWhileOpeningRecordSet" xml:space="preserve">
+    <value>Error while opening recordset:</value>
+  </data>
+  <data name="MsgErrorWhileReopeningDatabase" xml:space="preserve">
+    <value>Error while (re-)opening database:</value>
+  </data>
+  <data name="MsgExecutionOfSQLCommandFailed" xml:space="preserve">
+    <value>The execution of an SQL command failed.</value>
+  </data>
+  <data name="MsgExecutionOfSQLQueryFailed" xml:space="preserve">
+    <value>The execution of an SQL query failed.</value>
+  </data>
+  <data name="MsgFileAlreadyExists" xml:space="preserve">
+    <value>File '{0}' already exists!</value>
+  </data>
+  <data name="MsgFirstCheckMaterial" xml:space="preserve">
+    <value>First check the material!</value>
+  </data>
+  <data name="MsgFoundAndRemovedDuplicateEntries" xml:space="preserve">
+    <value>Found and removed duplicate entries: ({0})</value>
+  </data>
+  <data name="MsgFoundUnknownMaterialNumbers" xml:space="preserve">
+    <value>Found unknown material numbers: {0}</value>
+  </data>
+  <data name="MsgImportCompleted" xml:space="preserve">
+    <value>Import completed.</value>
+  </data>
+  <data name="MsgImportFailed" xml:space="preserve">
+    <value>Import failed.</value>
+  </data>
+  <data name="MsgImportOfFailed" xml:space="preserve">
+    <value>Import of '{0}' failed: </value>
+  </data>
+  <data name="MsgInvalidDataCouldNotFindHeaders" xml:space="preserve">
+    <value>Invalid data. Could not find headers!</value>
+  </data>
+  <data name="MsgLineCausedException" xml:space="preserve">
+    <value>'{0}' line {1} caused an exception:</value>
+  </data>
+  <data name="MsgLoginIsAlreadyAssignedToAnotherUser" xml:space="preserve">
+    <value>Login '{0}' is already assigned to another user!</value>
+  </data>
+  <data name="MsgMRPControllerIsAlreadyAssignedToAnotherUser" xml:space="preserve">
+    <value>MRP Controller '{0}' is already assigned to another user!</value>
+  </data>
+  <data name="MsgNumberOfConnectionsIncreased" xml:space="preserve">
+    <value>Number of connections increased: {0}.</value>
+  </data>
+  <data name="MsgOutOfMemorySplittingTransactionOfSQLStatementsInto2Parts" xml:space="preserve">
+    <value>Out of memeory! Splitting transaction of {0} SQL statements into two parts.</value>
+  </data>
+  <data name="MsgPartnerIsAlreadyAssignedToAnotherUser" xml:space="preserve">
+    <value>Partner '{0}' is already assigned to another user!</value>
+  </data>
+  <data name="MsgPleaseClick2ShowSelectionForm" xml:space="preserve">
+    <value>Please click '...' to show selection form.</value>
+  </data>
+  <data name="MsgPleaseEnterEMail" xml:space="preserve">
+    <value>Please enter e-mail!</value>
+  </data>
+  <data name="MsgPleaseEnterLogin" xml:space="preserve">
+    <value>Please enter a login!</value>
+  </data>
+  <data name="MsgPleaseEnterMRPController" xml:space="preserve">
+    <value>Please enter an MRP controller!</value>
+  </data>
+  <data name="MsgPleaseEnterPhoneNumber" xml:space="preserve">
+    <value>Please enter a phone number!</value>
+  </data>
+  <data name="MsgPleaseEnterWireTypeName" xml:space="preserve">
+    <value>Please enter wire type name.</value>
+  </data>
+  <data name="MsgPleaseReadProjectFirst" xml:space="preserve">
+    <value>Please read a project first!</value>
+  </data>
+  <data name="MsgPleaseSelectPartner" xml:space="preserve">
+    <value>Please select a partner!</value>
+  </data>
+  <data name="MsgPleaseSelectProduct" xml:space="preserve">
+    <value>Please select product.</value>
+  </data>
+  <data name="MsgPleaseSelectUserGroup" xml:space="preserve">
+    <value>Please select a user group!</value>
+  </data>
+  <data name="MsgPleaseSelectUserType" xml:space="preserve">
+    <value>Please select a user type!</value>
+  </data>
+  <data name="MsgPleaseSelectWireColor" xml:space="preserve">
+    <value>Please select wire color.</value>
+  </data>
+  <data name="MsgPleaseSelectWireCrossSection" xml:space="preserve">
+    <value>Please select wire cross section.</value>
+  </data>
+  <data name="MsgPleaseWaitSomeSecondsMinutesToRepeatExecution" xml:space="preserve">
+    <value>Please wait some seconds/minutes to repeat the execution.</value>
+  </data>
+  <data name="MsgProjectAlreadyExistsInDatabaseDoYouWantToOverwrite" xml:space="preserve">
+    <value>The project already exists in the database. Do you want to overwrite?</value>
+  </data>
+  <data name="MsgProvidedMaterialIsNotRelated" xml:space="preserve">
+    <value>Provided material is not related!</value>
+  </data>
+  <data name="MsgPurchaseOrderWithIDNotFound" xml:space="preserve">
+    <value>PurchaseOrder with ID = {0} not found!</value>
+  </data>
+  <data name="MsgReconnectingToDatabaseFailed" xml:space="preserve">
+    <value>The (re-)connecting to the database failed.</value>
+  </data>
+  <data name="MsgSelectedEmployeeAlreadyExists" xml:space="preserve">
+    <value>Selected employee already exists.</value>
+  </data>
+  <data name="MsgSelectedEmployeeDoesntHaveGID" xml:space="preserve">
+    <value>Selected employee doesn't have a GID.</value>
+  </data>
+  <data name="MsgSelectedMaterialIsAlreadyRelatedWithAnotherGroupOfMaterials" xml:space="preserve">
+    <value>The selected material is already related with another group of materials!</value>
+  </data>
+  <data name="MsgSelectedMaterialIsCurrentlyViewedInCockpitItem" xml:space="preserve">
+    <value>The selected material is currently viewed in the Cockpit Item!</value>
+  </data>
+  <data name="MsgSelectedPartnerCannotBeDeletedBecauseIsStillAssigned2User" xml:space="preserve">
+    <value>Selected partner cannot be deleted because is still assigned to a user!</value>
+  </data>
+  <data name="MsgSpecifiedWireAlreadyExists" xml:space="preserve">
+    <value>The specified wire already exists.</value>
+  </data>
+  <data name="MsgSynchronizationComplete" xml:space="preserve">
+    <value>Synchronization complete.</value>
+  </data>
+  <data name="MsgUnknownDataType" xml:space="preserve">
+    <value>Unknown data type: '{0}'.</value>
+  </data>
+  <data name="MsgUserHasSomeFavoritesFoldersAndCannotBeDeleted" xml:space="preserve">
+    <value>User has some Favorites folders and cannot be deleted!</value>
+  </data>
+  <data name="MsgUserIsInactive" xml:space="preserve">
+    <value>User '{0}' is inactive!</value>
+  </data>
+  <data name="MsgUserLoginCouldNotBeFound" xml:space="preserve">
+    <value>User login '{0}' could not be found!</value>
+  </data>
+  <data name="MsgUserWithNoCouldNotBeFound" xml:space="preserve">
+    <value>User with no. {0} could not be found!</value>
+  </data>
+  <data name="TextArrivalInWuxi" xml:space="preserve">
+    <value>Arrival in Wuxi</value>
+  </data>
+  <data name="TextChoosePartner" xml:space="preserve">
+    <value>Choose Partner</value>
+  </data>
+  <data name="TextColumnHasUnrecognizableData" xml:space="preserve">
+    <value>Column {0} has unrecognizable data: '{1}'</value>
+  </data>
+  <data name="TextColumnIsOutOfRangeCannotAssignToHeader" xml:space="preserve">
+    <value>Column {0} is out of range, cannot assign to header.</value>
+  </data>
+  <data name="TextCommonUser" xml:space="preserve">
+    <value>Common User</value>
+  </data>
+  <data name="TextConnectionString" xml:space="preserve">
+    <value>Connection String: {0}</value>
+  </data>
+  <data name="TextCouldNotFindFile" xml:space="preserve">
+    <value>Could not find file: '{0}'</value>
+  </data>
+  <data name="TextDateTime_" xml:space="preserve">
+    <value>Date/Time: {0}</value>
+  </data>
+  <data name="TextEmptyMaterialNo" xml:space="preserve">
+    <value>Empty material no.</value>
+  </data>
+  <data name="TextEmptyPONoOrPOItem" xml:space="preserve">
+    <value>Empty PONo or POItem.</value>
+  </data>
+  <data name="TextEmptySupplierNo" xml:space="preserve">
+    <value>Empty supplier no.</value>
+  </data>
+  <data name="TextErrLog_Txt" xml:space="preserve">
+    <value>ErrLog_{0}.txt</value>
+  </data>
+  <data name="TextErrorNoText" xml:space="preserve">
+    <value>Error No. {0}: {1}</value>
+  </data>
+  <data name="TextFoundAndRemovedDuplicateInfoSetRecords" xml:space="preserve">
+    <value>Found and removed duplicate info set records: ({0})</value>
+  </data>
+  <data name="TextFoundAndRemovedDuplicateMaterialNumbers" xml:space="preserve">
+    <value>Found and removed duplicate material numbers: </value>
+  </data>
+  <data name="TextFoundAndRemovedDuplicatePOConfirmations" xml:space="preserve">
+    <value>Found and removed duplicate PO Confirmations: ({0})</value>
+  </data>
+  <data name="TextFoundAndRemovedDuplicateSupplierNumbers" xml:space="preserve">
+    <value>Found and removed duplicate supplier numbers: </value>
+  </data>
+  <data name="TextFoundAndRemovedEntriesWithDuplicateMaterialNumbers" xml:space="preserve">
+    <value>Found and removed entries with duplicate material numbers:</value>
+  </data>
+  <data name="TextImportInProgress" xml:space="preserve">
+    <value>Import in progress...</value>
+  </data>
+  <data name="TextImportSAPData" xml:space="preserve">
+    <value>Import SAP data</value>
+  </data>
+  <data name="TextInvalidEndDate" xml:space="preserve">
+    <value>Invalid end date: '{0}'</value>
+  </data>
+  <data name="TextInvalidInfoRecNoOrToFewColumnsToGetRequiredData" xml:space="preserve">
+    <value>Invalid Info rec. no. or to few columns to get required data.</value>
+  </data>
+  <data name="TextInvalidStartDate" xml:space="preserve">
+    <value>Invalid start date: '{0}'</value>
+  </data>
+  <data name="TextLeadTime" xml:space="preserve">
+    <value>Lead time</value>
+  </data>
+  <data name="TextLoadingMLFBMap" xml:space="preserve">
+    <value>Loading MLFB map</value>
+  </data>
+  <data name="TextManagePartners" xml:space="preserve">
+    <value>Manage Partners</value>
+  </data>
+  <data name="TextMappingDataFromToSQLRecords" xml:space="preserve">
+    <value>Mapping data from '{0}' to SQL records</value>
+  </data>
+  <data name="TextMappingDataToSQLRecords" xml:space="preserve">
+    <value>Mapping data to SQL records</value>
+  </data>
+  <data name="TextNextImportIn_" xml:space="preserve">
+    <value>Next import in {0}</value>
+  </data>
+  <data name="TextOnlyValidInfoSets" xml:space="preserve">
+    <value>only valid info sets</value>
+  </data>
+  <data name="TextOnlyValidInfoSetsWithOpenPOs" xml:space="preserve">
+    <value>only valid info sets with open POs</value>
+  </data>
+  <data name="TextParsing" xml:space="preserve">
+    <value>Parsing: '{0}'.</value>
+  </data>
+  <data name="TextPartnerEdit" xml:space="preserve">
+    <value>Partner - Edit</value>
+  </data>
+  <data name="TextPartnerNew" xml:space="preserve">
+    <value>Partner - New</value>
+  </data>
+  <data name="TextPartnerView" xml:space="preserve">
+    <value>Partner - View</value>
+  </data>
+  <data name="TextReadingDataFrom" xml:space="preserve">
+    <value>Reading data from: '{0}'.</value>
+  </data>
+  <data name="TextReadingDataLines" xml:space="preserve">
+    <value>Reading data ({0} lines)</value>
+  </data>
+  <data name="TextSAPImport_Txt" xml:space="preserve">
+    <value>SAPImport_{0}.txt</value>
+  </data>
+  <data name="TextSizeBKBMB" xml:space="preserve">
+    <value>Size: {0}B | {1}KB | {2}MB</value>
+  </data>
+  <data name="TextSkippingColumnFromLineCause" xml:space="preserve">
+    <value>Skipping column from line {0}. Cause: </value>
+  </data>
+  <data name="TextSkippingLineCause" xml:space="preserve">
+    <value>Skipping line {0}. Cause: </value>
+  </data>
+  <data name="TextSupervisor" xml:space="preserve">
+    <value>Supervisor</value>
+  </data>
+  <data name="TextToFewColumnsToGetRequiredData" xml:space="preserve">
+    <value>To few columns to get required data.</value>
+  </data>
+  <data name="TextUnknownPaymentTerm" xml:space="preserve">
+    <value>Unknown PaymentTerm: '{0}'</value>
+  </data>
+  <data name="TextUserEdit" xml:space="preserve">
+    <value>User - Edit</value>
+  </data>
+  <data name="TextUserNew" xml:space="preserve">
+    <value>User - New</value>
+  </data>
+  <data name="TextUserView" xml:space="preserve">
+    <value>User - View</value>
+  </data>
+</root>
